@@ -2,7 +2,7 @@
 >
 > **Occupation** | *Student*
 > 
-> **Preferred Languages** | *JS* | *Crystal* | *Rust* | *C*
+> **Preferred Languages** | *JS -> Crystal -> Rust -> C*
 >
 > **Projects** | *N/A*
 >
