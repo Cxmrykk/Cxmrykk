@@ -2,7 +2,7 @@
 >
 > **Occupation** | *Student*
 > 
-> **Preferred Language** | *JS -> Crystal -> Rust -> C -> English*
+> **Language Hierarchy** | *JS -> Crystal -> Rust -> C -> English*
 >
 > **Favourite Colour** | *Green*
 >
