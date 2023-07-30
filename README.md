@@ -1,6 +1,6 @@
 > **Camerikk** | *Cameron Merrick*
 >
-> **Occupation** | *Student*
+> **Occupation** | *Student (Software Engineering)*
 > 
 > **Language Hierarchy** | *JS -> Crystal -> Rust -> C -> English*
 >
