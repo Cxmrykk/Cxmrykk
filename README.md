@@ -1,6 +1,4 @@
 > **Cxmrykk** | *Cameron Merrick*
->
-> **Occupation** | *Student*
 > 
 > **Language Preference** | *JS -> Crystal -> Rust -> C -> English*
 >
