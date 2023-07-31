@@ -1,4 +1,4 @@
-> **Camerikk** | *Cameron Merrick*
+> **Cxmrykk** | *Cameron Merrick*
 >
 > **Occupation** | *Student*
 > 
