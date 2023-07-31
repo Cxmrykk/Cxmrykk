@@ -1,8 +1,8 @@
 > **Camerikk** | *Cameron Merrick*
 >
-> **Occupation** | *Student (Software Engineering)*
+> **Occupation** | *Student*
 > 
-> **Language Hierarchy** | *JS -> Crystal -> Rust -> C -> English*
+> **Language Preference** | *JS -> Crystal -> Rust -> C -> English*
 >
 > **Favourite Colour** | *Green*
 >
