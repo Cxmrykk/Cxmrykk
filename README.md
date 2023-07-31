@@ -1,6 +1,6 @@
 > **Cxmrykk** | *Cameron Merrick*
 > 
-> **Language Preference** | *JS -> Crystal -> Rust -> C -> English*
+> **Favourite Language** | *JS -> Crystal -> Rust -> C*
 >
 > **Favourite Colour** | *Green*
 >
