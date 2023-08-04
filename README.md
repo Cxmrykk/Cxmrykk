@@ -1,6 +1,6 @@
 > **Cxmrykk** | *Cameron Merrick*
 > 
-> **Preferred Language** | *Crystal*
+> **Language Preference** | *Crystal, JavaScript*
 >
 > **Favourite Colour** | *Green*
 >
