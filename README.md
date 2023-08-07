@@ -4,6 +4,6 @@
 >
 > **Favourite Colour** | *Green*
 >
-> **Contact** | *[hp5bgedv@duck.com](mailto:hp5bgedv@duck.com)*
+> **Contact** | *[contact@merrick.cam](mailto:contact@merrick.cam)*
 
 You have reached the page of Cxmrykk
