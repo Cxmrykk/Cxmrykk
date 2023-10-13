@@ -1,6 +1,6 @@
 > **Cxmrykk** | *Cameron Merrick*
 > 
-> **Languages (4)** | *JavaScript (+ ReScript), Python, Crystal, C*
+> **Languages (5)** | *JavaScript, ReScript, Python, Crystal, C/C++*
 >
 > **Favourite Colour** | *Green*
 >
