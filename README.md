@@ -1,9 +1,7 @@
 > **Cxmrykk** | *Cameron Merrick*
 > 
-> **Languages (5)** | *JavaScript, ReScript, Python, Crystal, C/C++*
->
-> **Favourite Colour** | *Green*
+> **Languages (7)** | *JavaScript, ReScript, Python, C/C++, Java, Crystal, Rust*
 >
 > **Contact** | *[contact@merrick.cam](mailto:contact@merrick.cam)*
 
-You have reached the GitHub page of Cxmrykk
+Welcome to my GitHub page!
